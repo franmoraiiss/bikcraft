@@ -36,7 +36,7 @@
 
 ## 👨🏻‍💻 About the project
 
-- <p style="color: red;">It's a simple repository for studying HTML and CSS</p>
+- <p style="color: red;">It's a simple repository for studying pure HTML and CSS</p>
 
 ## 💻 Getting started
 
